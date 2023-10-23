@@ -1,0 +1,4 @@
+node_modules
+*.swp
+*.DS_Store
+data/ngrok_key.json
